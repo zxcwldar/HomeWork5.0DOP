@@ -27,5 +27,6 @@ public class Hero {
     public String getSuperPower() {
         return superPower;
     }
+
 }
 
